@@ -1,4 +1,4 @@
-# Files for paper
+# Files for article "Development and Validation of an UHPLC-HRMS-based method for quantifying a novel anti-chikungunya drug candidate in the preclinical phase"
 
 This repository contains the files related to the article [TODO: INSERT DOI HERE]:
 1) XLS file containing the raw abundances for the analyte and IS described in the paper.
